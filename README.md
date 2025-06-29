@@ -14,7 +14,7 @@ This project demonstrates applied research, responsible use of AI tools for acad
 
 ## Contents
 
-- `How U.S. College Students Use AI in 2025.html`: Interactive web version of the paper
+- `index.html`: Interactive web version of the paper
 - Data visualizations (`.png`)
 - Plagiarism declaration included in the HTML
 
