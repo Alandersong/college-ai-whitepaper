@@ -14,9 +14,8 @@ This project demonstrates applied research, responsible use of AI tools for acad
 
 ## Contents
 
-- `index.html`: Interactive web version of the paper
+- `How U.S. College Students Use AI in 2025.html`: Interactive web version of the paper
 - Data visualizations (`.png`)
-- `college_ai_whitepaper_proofed.txt`: Final proofed full-text version
 - Plagiarism declaration included in the HTML
 
 ## View Online
@@ -24,7 +23,7 @@ This project demonstrates applied research, responsible use of AI tools for acad
 Once uploaded to GitHub and GitHub Pages is enabled, this project will be viewable at:
 
 ```
-https://<your-username>.github.io/college-ai-whitepaper/
+https://alandersong.github.io/college-ai-whitepaper/
 ```
 
 ## License
